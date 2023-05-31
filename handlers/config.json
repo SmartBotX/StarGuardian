@@ -1,0 +1,6 @@
+{"PREFIX": "/",
+"BOT_NAME": "StarGuardian",
+"BOT_VERSION": "V0.0.2s",
+"INVLINK":"https://discord.com/api/oauth2/authorize?client_id=1107997377492693102&permissions=19235547376759&scope=bot",
+"virusTotalApiKey":"ae9c345e1e29bc88291cfc38806d9593abf92329c02897bbcf5485aeb0ecdf4e"
+}
