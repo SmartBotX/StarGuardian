@@ -125,7 +125,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -146,7 +146,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -167,7 +167,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -188,7 +188,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -209,7 +209,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -230,7 +230,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -251,7 +251,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -272,7 +272,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -293,7 +293,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -314,7 +314,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
@@ -335,7 +335,7 @@ module.exports = {
             method: "GET",
             headers: {
               "X-RapidAPI-Key":
-                "4283c6345emsh55b840ecff7586ap1fcdccjsn90cc6fd34d55",
+                "5123a4bd50msh7b0909e39070d4ap10c4aajsnb85b4744fa35",
               "X-RapidAPI-Host": "horoscopes-ai.p.rapidapi.com",
             },
           };
