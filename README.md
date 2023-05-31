@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/SmartBotX/StarGuardian/assets/51787264/c83591ff-dca5-4852-9644-429c72022790" width="260" height="220"></p>
+<p align="center"><img src="https://github.com/SmartBotX/StarGuardian/assets/51787264/c83591ff-dca5-4852-9644-429c72022790" width="260" ></p>
 
 
 ### <p align="center">StarGuardian - v3</p>
