@@ -1,14 +1,17 @@
 <p align="center"><img src="https://i.imgur.com/mwOFCBO.png" width="260" height="220"></p>
 
-### <p align="center">Chiyoko Haruka - v2.r002s</p>
+### <p align="center">StarGuardian - v3</p>
 ------------------------------------------------------
-Chiyoko Haruka is a feature-packed Discord bot designed to provide a wide range of useful features and utilities to users. One of its unique features is the ILoveYou command, which is designed to reject user confessions in a lighthearted and humorous way.
+StarGuardian is a versatile bot that can be used for a variety of purposes, including fun, security, music, and utilities.
 
-In addition to this fun feature, Chiyoko Haruka also includes a Spotify Status Checker, which allows you to easily share your latest tracks with friends, and access to popular subreddits such as r/yandere, r/meme, r/wholesomememe, r/suddenlygay, and r/whataweeb.
+- Fun: StarGuardian can provide you with animal facts, your daily horoscope, and memes from Reddit. Simply type /animalfact, /horoscope, or /memes to learn more.
+- Security: StarGuardian can check links for scams and help you stay safe online. Simply type /scamcheck followed by the link you want to check to learn more.
+- Music: StarGuardian can check the current playing music from Spotify through Discord status. Simply type /playcheck to see what's playing.
+- Utilities: StarGuardian can provide you with information about servers, users, and more. Simply type /info, /invite, /ping, /serverinfo, or /userinfo to learn more.
 
-The bot also provides a range of utilities, including info, invite, ping, serverinfo, and userinfo, which can help you manage your Discord server and stay organized.
+StarGuardian also has a unique feature called the ILoveYou command, which is designed to reject user confessions in a lighthearted and humorous way. Simply type /iloveyou to use this command.
 
-Whether you're looking for a way to stay connected with the latest memes and trends, share your favorite music, or manage your server more effectively, Chiyoko Haruka has got you covered. With its fun and unique features and powerful utilities, this bot is a must-have for any Discord user.
+Overall, StarGuardian is a powerful and versatile bot that can be used for a variety of purposes. If you're looking for a bot that can help you have fun, stay safe, and get things done, then StarGuardian is a great option.
 
 # Get Started
 
